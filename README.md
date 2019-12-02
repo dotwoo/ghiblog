@@ -1,7 +1,7 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-12-01 18:04:08
+> :alarm_clock: 上次更新: 2019-12-02 18:04:19
     
 共 [3](https://github.com/dotwoo/ghiblog/labels) 个标签, [1](https://github.com/dotwoo/ghiblog/issues) 篇博文.
 
